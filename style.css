@@ -1,0 +1,180 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    margin:0;
+    font-family:Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-size:17px;
+    color:white;
+    line-height:1.6;
+}
+#showcase{
+    background-image:url('./img/touristimg.jpg');
+    background-size:cover;
+    background-position:center;
+    height:100vh;   
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+    padding:0 20px;
+}
+#showcase h1{
+    font-size:50px;
+    line-height:1.2;
+}
+
+#showcase p{
+    font-size:20px;
+}
+#showcase .button{
+    font-size:18px;
+    text-decoration:none;
+    color:whitesmoke;
+    border:white 1px solid;
+    padding:10px 20px;
+    border-radius:10px;
+    margin-top:20px;
+
+}
+#showcase .button:hover{
+    background:white;
+    color:black;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+h2{
+    text-decoration: solid;
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+}
+.kodaikanal img{
+    float: left;
+    padding-top:4%;
+    padding:10px;
+}
+
+.kodaikanal h3{
+    text-decoration:underline;
+    padding-top:1%;
+}
+.kodaikanal p{
+    padding-left:40%;
+    padding-top:2%;
+    padding-right:1%;
+}
+.ooty img{
+    float:right;
+    padding-top:8%;
+    padding-right:1%;
+}
+
+.ooty h3{
+    text-decoration:underline;
+    padding-top:7%;
+    padding-left:1%;
+}
+
+.ooty p{
+    padding-right:40%;
+    padding-top:1%;
+    padding-left:1%;
+}
+
+.mahabalipuram img{
+    float: left;
+    padding-top:12%;
+    padding-left:1%;
+    padding-right:1%;
+    
+}
+
+.mahabalipuram h3{
+    text-decoration:underline;
+    padding-top:12%;
+    padding-left:2%;
+}
+
+.mahabalipuram p{
+    padding-left:40%;
+    padding-top:2%;
+    padding-right:1%;
+}
+
+.kanyakumari img{
+    float:right;
+    padding-top:10%;
+    padding-right:1%;
+}
+
+.kanyakumari h3{
+    text-decoration:underline;
+    padding-top:10%;
+    padding-left:1%;
+}
+.kanyakumari p{
+    padding-right:40%;
+    padding-top:1%;
+    padding-left:1%;
+}
+.madhurai img{
+    float: left;
+    padding-top:7%;
+    padding-left:1%;
+    padding-right:1%;
+}
+
+.madhurai h3{
+    text-decoration:underline;
+    padding-top:7%;
+    padding-left:2%;
+}
+
+.madhurai p{
+    padding-left:40%;
+    padding-top:2%;
+    padding-right:1%; 
+}
+
+.yercaud img{
+    float:right;
+    padding-top:8%;
+    padding-right:1%;
+}
+
+.yercaud h3{
+    text-decoration:underline;
+    padding-top:8%;
+    padding-left:1%;
+}
+
+.yercaud p{
+    padding-right:40%;
+    padding-top:1%;
+    padding-left:1%;
+}
+
+.thanjavur img{
+    float: left;
+    padding-top:15%;
+    padding-left:1%;
+    padding-right:1%; 
+    padding-bottom:2%;;
+}
+
+.thanjavur h3{
+    text-decoration:underline;
+    padding-top:15%;
+    padding-left:2%;
+}
+
+.thanjavur p{
+    padding-left:40%;
+    padding-top:2%;
+    padding-right:1%; 
+}
